@@ -1,6 +1,6 @@
 # -static
 
-A set of repositories which build useful tools - staticly.
+A set of repositories which build useful tools - statically.
 
 # Requirements
 
